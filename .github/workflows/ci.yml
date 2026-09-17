@@ -15,4 +15,3 @@ jobs:
           cache: true
           cache-write: ${{ github.event_name == 'push' && github.ref_name == 'main' }}
       - run: pixi run zensical build --clean --strict
-
