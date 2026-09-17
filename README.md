@@ -6,6 +6,7 @@
 pixi install
 zensical --help
 ```
+
 [Pixi](https://pixi.prefix.dev/latest/) | [Zensical](https://zensical.org/docs/get-started/)
 
 Lint using pre-commit
