@@ -21,7 +21,7 @@ jobs:
         with:
           cache: true
           cache-write: ${{ github.event_name == 'push' && github.ref_name == 'main' }}
-      - run: pixi run zensical build --clean
+      - run: pixi run zensical build --clean --strict
       - uses: actions/upload-pages-artifact@v5
         with:
           path: site
