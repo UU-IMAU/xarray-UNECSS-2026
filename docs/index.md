@@ -14,8 +14,6 @@ hide:
 
 :lucide-clock: **Time**: 14:00 – 16:30
 
-:lucide-map-pin: **Location**: Theater de Vest, Alkmaar
-
 :lucide-user: **Speaker**: [Nick Hodgskin](#speaker)
 
 :lucide-laptop: **Required resources**: Laptop (and charger if needed)
