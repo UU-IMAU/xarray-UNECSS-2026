@@ -1,18 +1,17 @@
 [project]
 site_url = "https://www.example.com/"
-site_name = "Documentation"
-# site_description = "Your project description"
+site_name = "Xarray Workshop — UNECSS 2026"
+site_description = "Big array data analysis in Python for geospatial analysis and microscopy"
 # site_author = "Your name"
 
-# copyright = "Copyright &copy; 2026 Your name"
+# copyright = "Copyright &copy; 2026"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Get started" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
+  { "Workshop" = "index.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
@@ -25,37 +24,25 @@ nav = [
 language = "en"
 features = [
   "announce.dismiss",
-  # "content.action.edit",
-  # "content.action.view",
   "content.code.annotate",
   "content.code.copy",
   "content.code.select",
   "content.footnote.tooltips",
   "content.tabs.link",
   "content.tooltips",
-  # "header.autohide",
-  # "navigation.expand",
   "navigation.footer",
   "navigation.indexes",
   "navigation.instant",
   "navigation.instant.prefetch",
-  # "navigation.instant.progress",
-  "navigation.path",
-  # "navigation.prune",
-  "navigation.sections",
-  # "navigation.tabs",
-  # "navigation.tabs.sticky",
   "navigation.top",
   "navigation.tracking",
   "search.highlight",
-  # "toc.follow",
-  # "toc.integrate",
 ]
 
 # logo = "assets/logo.png"
 
-# [project.theme.icon]
-# logo = "lucide/smile"
+[project.theme.icon]
+logo = "lucide/grid-3x3"
 
 # [project.theme.font]
 # text = "Inter"
@@ -69,22 +56,22 @@ toggle.name = "Switch to light mode"
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
+primary = "teal"
+accent = "cyan"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
+primary = "teal"
+accent = "cyan"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to system preference"
 
 # [[project.extra.social]]
 # icon = "fontawesome/brands/github"
 # link = "https://github.com/user/repo"
-
-# [[project.extra.social]]
-# icon = "fontawesome/brands/mastodon"
-# link = "https://fosstodon.org/@user"
 
 [project.markdown_extensions]
 abbr = {}
@@ -94,7 +81,6 @@ def_list = {}
 footnotes = {}
 md_in_html = {}
 toc.permalink = true
-pymdownx.arithmatex.generic = true
 pymdownx.betterem = {}
 pymdownx.caret = {}
 pymdownx.details = {}
@@ -108,7 +94,6 @@ pymdownx.keys = {}
 pymdownx.magiclink = {}
 pymdownx.mark = {}
 pymdownx.smartsymbols = {}
-# pymdownx.snippets.base_path = "includes"
 pymdownx.superfences.custom_fences = [
   { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" },
 ]
