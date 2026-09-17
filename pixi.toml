@@ -2,7 +2,7 @@
 authors = ["Vecko <36369090+VeckoTheGecko@users.noreply.github.com>"]
 channels = ["conda-forge"]
 name = "xarray-UNECSS-2026"
-platforms = ["osx-arm64"]
+platforms = ["osx-arm64", "linux-64"]
 version = "0.1.0"
 
 [tasks]
