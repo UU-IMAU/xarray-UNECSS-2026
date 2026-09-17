@@ -1,10 +1,7 @@
 [project]
-site_url = "https://www.example.com/"
+site_url = "http://uu-imau.github.io/xarray-UNECSS-2026/"
 site_name = "Xarray Workshop — UNECSS 2026"
 site_description = "Big array data analysis in Python for geospatial analysis and microscopy"
-# site_author = "Your name"
-
-# copyright = "Copyright &copy; 2026"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
