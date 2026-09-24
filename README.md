@@ -1,8 +1,7 @@
-# Big array data analysis in Python for geospatial analysis and microscopy
+## UNECSS 2026 Xarray Workshop
 
-**UNECSS 2026 Workshop**
+**Intro to Big array data analysis in Python for geospatial analysis and microscopy**
 
----
 
 **Date**: 25 September 2026
 
@@ -12,15 +11,14 @@
 
 **Required resources**: Laptop (and charger if needed)
 
----
 
-## Abstract
+
+## Summary
 
 Data coming from satellites, climate models, and high-resolution microscopes have unique aspects in common. The datasets are very large (typically ranging from gigabytes to terabytes) meaning they often cannot be loaded entirely into memory, and the datasets are fundamentally multidimensional which prevents effective analysis using tabular data processing techniques. Processing data requires software and infrastructure that meets these challenges and empower researchers to deliver insight.
 
 This workshop first provides an overview of this problem space, before providing a foundation to the Python package that has arrived at the centre of it all — Xarray. In this tutorial we will also look at how SURF Research Cloud infrastructure can be used to effectively deploy Xarray workflows, and work with big array data.
 
----
 
 ## Agenda
 
