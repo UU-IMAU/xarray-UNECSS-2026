@@ -8,7 +8,7 @@
 
 **Time**: 14:00 – 16:30
 
-**Speaker**: [Nick Hodgskin](#speaker)
+**Speaker**: [Nick Hodgskin](README.md#speaker)
 
 **Required resources**: Laptop (and charger if needed)
 
