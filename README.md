@@ -1,6 +1,6 @@
 ## UNECSS 2026 Xarray Workshop
 
-**Intro to Big array data analysis in Python for geospatial analysis and microscopy**
+**Intro to Big Array Data Analysis in Python for geospatial science and microscopy**
 
 
 **Date**: 25 September 2026
