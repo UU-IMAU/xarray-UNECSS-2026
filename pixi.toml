@@ -11,3 +11,4 @@ tutorial = "jupyter lab"
 [dependencies]
 jupyter-book = ">=2.1.7,<3"
 xarray = ">=2026.7.0,<2027"
+matplotlib = ">=3.11.2,<4"
