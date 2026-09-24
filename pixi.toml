@@ -9,3 +9,4 @@ version = "0.1.0"
 
 [dependencies]
 zensical = ">=0.0.61,<0.0.62"
+jupyter-book = ">=2.1.7,<3"

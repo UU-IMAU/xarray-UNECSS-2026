@@ -2,3 +2,6 @@
 .pixi/*
 !.pixi/config.toml
 site
+
+# MyST build outputs
+_build
