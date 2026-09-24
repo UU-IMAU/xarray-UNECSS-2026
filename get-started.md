@@ -12,7 +12,9 @@ Available options:
 
 ### Mybinder.org
 
-Clicking [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UU-IMAU/xarray-UNECSS-2026/HEAD) will load a pre-configured Jupyter Lab interface with the notebooks for you to run. _You will have minimal computing resources and any changes you make will not be saved_, but its more than sufficient for this tutorial. Any page with executable content also has a {octicon}`rocket;2em` icon in the upper right that will launch an interactive session for that particular page.
+Clicking [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UU-IMAU/xarray-UNECSS-2026/HEAD) will load a pre-configured Jupyter Lab interface with the notebooks for you to run. _You will have minimal computing resources and any changes you make will not be saved_, but its more than sufficient for this tutorial.
+
+Alternatively, you can also simply click the {octicon}`rocket;2em` icon in the upper right of the notebook pages which will launch an interactive session for that particular page.
 
 ### On your computer
 

@@ -2,6 +2,8 @@
 version: 1
 project:
   id: df30161b-7d70-411b-be40-e87cf8c7bdd3
+  github: UU-IMAU/xarray-UNECSS-2026
+  jupyter: true
   # title:
   # description:
   # keywords: []
