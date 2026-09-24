@@ -22,11 +22,15 @@ This workshop first provides an overview of this problem space, before providing
 
 ## Agenda
 
+The slides for the workshop are [available here](./UNECSS-2026-slides.pdf).
+
 | Time | Item |
 |---|---|
-| 14:00 – 15:00 | [Data structures Part 1](https://tutorial.xarray.dev/intermediate/datastructures-intermediate.html)<br/>[Data structures Part 2](https://tutorial.xarray.dev/fundamentals/01_data_structures.html) |
+| 14:00 - 14:30 | Why Xarray? |
+| 14:30 – 15:00 | Notebooks:<br/>[Xarray data structures](notebooks/01-datastructures-intermediate.ipynb)<br/>[Indexing basics](notebooks/02.1_indexing_Basic.ipynb)<br/>[Computation with Xarray](notebooks/03.1_computation_with_xarray.ipynb)<br/>[Basic plotting](notebooks/04.1_basic_plotting.ipynb)<br/>[Advanced: Computational patterns in Xarray](notebooks/09-high-level-computation-patterns.ipynb) |
 | 15:00 – 15:30 | Coffee break |
-| 15:30 – 16:30 | |
+| 15:30 – 16:00 | Continuing with notebooks | 
+| 16:00 – 16:30 | The bigger picture |
 
 ---
 
@@ -37,7 +41,7 @@ Nick Hodgskin ([@VeckoTheGecko on GitHub](https://github.com/VeckoTheGecko)) is 
 
 ## Acknowledgements
 
-The code resources from this workshop are adapted from [Xarray Tutorial](https://tutorial.xarray.dev).
+The notebooks from this workshop are adapted from [Xarray Tutorial](https://tutorial.xarray.dev).
 
 ## About UNECSS
 
