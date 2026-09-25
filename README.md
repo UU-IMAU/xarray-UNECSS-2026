@@ -1,4 +1,4 @@
-## UNECSS 2026 Xarray Workshop
+# UNECSS 2026 Xarray Workshop
 
 **Intro to Big Array Data Analysis in Python for geospatial science and microscopy**
 
