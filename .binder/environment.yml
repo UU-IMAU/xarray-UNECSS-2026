@@ -5,3 +5,4 @@ dependencies:
   - xarray
   - matplotlib
   - pooch
+  - netcdf4
